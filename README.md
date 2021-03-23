@@ -1,1 +1,1 @@
-# GestionDeProjet4A
+# 4GMM : Geometrical Form Factor
